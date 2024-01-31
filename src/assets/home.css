@@ -1,0 +1,27 @@
+.App {
+  text-align: center; 
+}
+
+.App-header {
+  background-color: #333;
+  padding: 10px;
+  display: inline-flex;
+}
+
+.App-header ul {
+  list-style: none;
+  padding: 0;
+  display: inline-block;
+}
+
+.App-header li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.App-header a {
+  text-decoration: none;
+  color: white;
+}
+
+
